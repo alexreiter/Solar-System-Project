@@ -1,0 +1,14 @@
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe.config
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csprojAssemblyReference.cache
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\MainWindow.g.cs
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\App.g.cs
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem_MarkupCompile.cache
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem_MarkupCompile.lref
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\MainWindow.baml
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.g.resources
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.Properties.Resources.resources
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.GenerateResource.cache
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.exe
+C:\Users\buisness\source\repos\SolarSystem\SolarSystem\obj\Debug\SolarSystem.pdb
